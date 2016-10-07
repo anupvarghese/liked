@@ -3,6 +3,7 @@
 
 #### Javascript
 - [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
+- [javascriptallongesix](https://leanpub.com/javascriptallongesix/read)
 
 #### Docker commands
 - Remove all exited containers `❯❯❯ docker rm $(docker ps -a -q -f "status=exited")`
