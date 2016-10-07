@@ -1,5 +1,5 @@
 #### Git 
-- [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
+- [Git tips](https://github.com/git-tips/tips)
 
 #### Javascript
 - [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
