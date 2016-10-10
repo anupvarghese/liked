@@ -15,3 +15,6 @@
 
 #### CURL helpers
 - Sample post request `❯❯❯ curl -X POST -H 'Content-Type: application/json' -d '{"username":"a@ab.com","password":"abc"}' http://localhost:8080/auth`
+
+#### Mongo
+- Mongo restore `❯❯❯ mongorestore --db db_name ../db_dump_folder`
