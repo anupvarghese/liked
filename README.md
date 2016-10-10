@@ -19,3 +19,6 @@
 
 #### Mongo
 - Mongo restore `❯❯❯ mongorestore --db db_name ../db_dump_folder`
+
+#### Free e-books
+- [Oreilly](http://www.oreilly.com/programming/free/)
