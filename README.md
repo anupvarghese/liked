@@ -10,6 +10,8 @@
 - ##### Videos
   - [Monads](https://www.youtube.com/watch?v=cB0vpg9-YMQ)
 
+#### React
+- [Binding & Arrow Functions](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb#.xfxboxcln)
 
 #### Docker
 - Remove all exited containers `❯❯❯ docker rm $(docker ps -a -q -f "status=exited")`
