@@ -2,10 +2,10 @@
 - [Git tips](https://github.com/git-tips/tips)
 
 #### Javascript
-- ##### Docs
+##### Docs
   - [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
   - [javascriptallongesix](https://leanpub.com/javascriptallongesix/read)
-- ##### Videos
+##### Videos
   - [Monads](https://www.youtube.com/watch?v=cB0vpg9-YMQ)
 
 
