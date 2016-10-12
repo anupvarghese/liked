@@ -2,11 +2,12 @@
 - [Git tips](https://github.com/git-tips/tips)
 
 #### Javascript
-- [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
-- [javascriptallongesix](https://leanpub.com/javascriptallongesix/read)
+- ##### Docs
+  - [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
+  - [javascriptallongesix](https://leanpub.com/javascriptallongesix/read)
+- ##### Videos
+  - [Monads](https://www.youtube.com/watch?v=cB0vpg9-YMQ)
 
-##### Videos
-- [Monads](https://www.youtube.com/watch?v=cB0vpg9-YMQ)
 
 #### Docker
 - Remove all exited containers `❯❯❯ docker rm $(docker ps -a -q -f "status=exited")`
@@ -28,4 +29,3 @@
 
 #### CSS
 - [Refactoring CSS](https://speakerdeck.com/csswizardry/refactoring-css-without-losing-your-mind)
-
