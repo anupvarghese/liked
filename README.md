@@ -6,6 +6,7 @@
 - ##### Docs
   - [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
   - [javascriptallongesix](https://leanpub.com/javascriptallongesix/read)
+  - [Yarn vs npm](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.zan26kdby)
 
 - ##### Videos
   - [Monads](https://www.youtube.com/watch?v=cB0vpg9-YMQ)
