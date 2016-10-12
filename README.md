@@ -9,6 +9,7 @@
 
 - ##### Videos
   - [Monads](https://www.youtube.com/watch?v=cB0vpg9-YMQ)
+  - [Code for Humans](https://www.youtube.com/watch?v=loj3CLHovt0)
 
 #### React
 - [Binding & Arrow Functions](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb#.xfxboxcln)
