@@ -43,3 +43,4 @@
 
 #### Cloud
 - [AWS](https://github.com/open-guides/og-aws)
+- [Kubernetes kubectl installation](https://code.google.com/p/google-cloud-sdk/issues/detail?id=336#c8)
