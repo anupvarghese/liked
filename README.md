@@ -43,4 +43,8 @@
 
 #### Cloud
 - [AWS](https://github.com/open-guides/og-aws)
+
+#### Kubernetes
 - [Kubernetes kubectl installation](https://code.google.com/p/google-cloud-sdk/issues/detail?id=336#c8)
+- Show master credentials `gcloud alpha container clusters describe example-cluster`
+
