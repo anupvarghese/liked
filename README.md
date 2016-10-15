@@ -10,6 +10,7 @@
   - [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
   - [javascriptallongesix](https://leanpub.com/javascriptallongesix/read)
   - [Yarn vs npm](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.zan26kdby)
+  - [JS from scratch](https://github.com/verekia/js-stack-from-scratch)
 
 - ##### Videos
   - [Monads](https://www.youtube.com/watch?v=cB0vpg9-YMQ)
