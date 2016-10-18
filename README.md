@@ -20,6 +20,9 @@
 #### React
 - [Binding & Arrow Functions](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb#.xfxboxcln)
 
+#### Rust
+- [Book](https://doc.rust-lang.org/book)
+
 #### Docker
 - Remove all exited containers `❯❯❯ docker rm $(docker ps -a -q -f "status=exited")`
 - [Private NPM with docker](https://blog.risingstack.com/private-npm-with-docker/)
