@@ -51,5 +51,7 @@
 - [Kubernetes kubectl installation](https://code.google.com/p/google-cloud-sdk/issues/detail?id=336#c8)
 - Show master credentials `gcloud alpha container clusters describe example-cluster`
 
+#### Elasticsearch
+- [Introduction](https://www.hakkalabs.co/articles/introduction-to-elasticsearch-by-radu-gheorghe/)
 #### Commands
 - Kill app using a port - `lsof -i tcp:3004`
