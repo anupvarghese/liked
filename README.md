@@ -18,8 +18,10 @@
   - [Code for Humans](https://www.youtube.com/watch?v=loj3CLHovt0)
 
 #### React
+
 - ##### Docs
   - [Binding & Arrow Functions](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb#.xfxboxcln)
+
 - ##### Videos
   - [React Style Components](https://www.youtube.com/watch?v=gNeavlJ7lNY)
 
@@ -56,5 +58,6 @@
 
 #### Elasticsearch
 - [Introduction](https://www.hakkalabs.co/articles/introduction-to-elasticsearch-by-radu-gheorghe/)
+
 #### Commands
 - Kill app using a port - `lsof -i tcp:3004`
