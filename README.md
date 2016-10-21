@@ -18,7 +18,10 @@
   - [Code for Humans](https://www.youtube.com/watch?v=loj3CLHovt0)
 
 #### React
-- [Binding & Arrow Functions](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb#.xfxboxcln)
+- ##### Docs
+  - [Binding & Arrow Functions](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb#.xfxboxcln)
+- ##### Videos
+  - [React Style Components](https://www.youtube.com/watch?v=gNeavlJ7lNY)
 
 #### Rust
 - [Book](https://doc.rust-lang.org/book)
