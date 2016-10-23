@@ -12,6 +12,7 @@
   - [Yarn vs npm](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.zan26kdby)
   - [JS from scratch](https://github.com/verekia/js-stack-from-scratch)
   - [ES6](https://github.com/DrkSephy/es6-cheatsheet)
+  - [More ES6](https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f#.i3ggpwde9)
 
 - ##### Videos
   - [Monads](https://www.youtube.com/watch?v=cB0vpg9-YMQ)
