@@ -13,6 +13,7 @@
   - [JS from scratch](https://github.com/verekia/js-stack-from-scratch)
   - [ES6](https://github.com/DrkSephy/es6-cheatsheet)
   - [More ES6](https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f#.i3ggpwde9)
+  - [Little more ES6](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/#.WA4G-3dZebs.hackernews)
 
 - ##### Videos
   - [Monads](https://www.youtube.com/watch?v=cB0vpg9-YMQ)
