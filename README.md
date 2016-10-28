@@ -27,6 +27,9 @@
 - ##### Videos
   - [React Style Components](https://www.youtube.com/watch?v=gNeavlJ7lNY)
 
+#### Redux
+- [Redux middlewares](https://medium.com/@meagle/understanding-87566abcfb7a#.cwi77nt37)
+
 #### Rust
 - [Book](https://doc.rust-lang.org/book)
 
