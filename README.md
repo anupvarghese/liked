@@ -1,5 +1,6 @@
 #### Git 
 - [Git tips](https://github.com/git-tips/tips)
+- A lifesaver command `git config --global push.default simple`
 
 #### Functional Programming
 - [Functional Programming introduction](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.v75g0i6xk)
