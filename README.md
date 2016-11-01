@@ -31,7 +31,9 @@
   - [React Style Components](https://www.youtube.com/watch?v=gNeavlJ7lNY)
 
 #### Redux
-- [Redux middlewares](https://medium.com/@meagle/understanding-87566abcfb7a#.cwi77nt37)
+  - [Redux middlewares](https://medium.com/@meagle/understanding-87566abcfb7a#.cwi77nt37)
+  - [Redux & Flowtype](https://medium.com/@cdebotton/redux-and-flowtype-69ff1dd09036#.1vrz45rap)
+
 
 #### Rust
 - [Book](https://doc.rust-lang.org/book)
