@@ -26,6 +26,7 @@
 
 - ##### Docs
   - [Binding & Arrow Functions](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb#.xfxboxcln)
+  - [React HoC](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.rnprjgz6j)
 
 - ##### Videos
   - [React Style Components](https://www.youtube.com/watch?v=gNeavlJ7lNY)
