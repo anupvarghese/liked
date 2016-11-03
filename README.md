@@ -72,3 +72,6 @@
 
 #### Commands
 - Kill app using a port - `lsof -i tcp:3004`
+
+#### Snippets
+- [Moment Timezone](http://jsfiddle.net/91zmpneh/)
