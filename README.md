@@ -75,3 +75,6 @@
 
 #### Snippets
 - [Moment Timezone](http://jsfiddle.net/91zmpneh/)
+
+#### Editors
+- [Mac Key Bindings for VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
