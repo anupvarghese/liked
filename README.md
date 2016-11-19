@@ -81,3 +81,6 @@
 
 #### Editors
 - [Mac Key Bindings for VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
+#### CSS
+- [modular CSS](https://medium.engineering/simple-style-sheets-c3b588867899#.cmmi61to0)
