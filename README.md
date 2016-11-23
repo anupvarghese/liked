@@ -17,6 +17,7 @@
   - [Little more ES6](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/#.WA4G-3dZebs.hackernews)
   - [How to start with JavaScript](https://github.com/verekia/js-stack-from-scratch)
   - [for in vs for of](https://bitsofco.de/for-in-vs-for-of/?utm_source=codropscollective)
+  - [How to yield Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
 
 
 - ##### Videos
