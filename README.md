@@ -64,6 +64,7 @@
 #### CSS
 - [Refactoring CSS](https://speakerdeck.com/csswizardry/refactoring-css-without-losing-your-mind)
 - [modular CSS](https://medium.engineering/simple-style-sheets-c3b588867899#.cmmi61to0)
+- [CSS-reference](http://cssreference.io/)
 
 #### Cloud
 - [AWS](https://github.com/open-guides/og-aws)
