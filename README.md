@@ -72,6 +72,7 @@
 #### Kubernetes
 - [Kubernetes kubectl installation](https://code.google.com/p/google-cloud-sdk/issues/detail?id=336#c8)
 - Show master credentials `gcloud alpha container clusters describe example-cluster`
+- [Deploy using kubernetes from DockerHub](http://blog.wercker.com/deploying-a-microservice-to-kubernetes)
 
 #### Elasticsearch
 - [Introduction](https://www.hakkalabs.co/articles/introduction-to-elasticsearch-by-radu-gheorghe/)
