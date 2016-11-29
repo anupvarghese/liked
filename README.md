@@ -31,6 +31,7 @@
   - [React HoC](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.rnprjgz6j)
   - [Missing immutable js manual](http://untangled.io/the-missing-immutable-js-manual/)
   - [How to deal with the f**king controlled inputs](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
+  - [Webpack confusing parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.ef7thr20c)
 
 - ##### Videos
   - [React Style Components](https://www.youtube.com/watch?v=gNeavlJ7lNY)
