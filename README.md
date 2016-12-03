@@ -39,6 +39,8 @@
 #### Redux
   - [Redux middlewares](https://medium.com/@meagle/understanding-87566abcfb7a#.cwi77nt37)
   - [Redux & Flowtype](https://medium.com/@cdebotton/redux-and-flowtype-69ff1dd09036#.1vrz45rap)
+  - [XSS](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0#.hjmaob50k)
+  
 
 
 #### Rust
