@@ -90,3 +90,6 @@
 #### Editors
 - [Mac Key Bindings for VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
+#### Briantree test cards
+- [Test credit card numbers](https://developers.braintreepayments.com/reference/general/testing/ruby#credit-card-numbers)
+
