@@ -30,6 +30,7 @@
 - ##### Docs
   - [Binding & Arrow Functions](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb#.xfxboxcln)
   - [React HoC](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.rnprjgz6j)
+  - [Mixins are dead](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.ogagoa19y)
   - [Missing immutable js manual](http://untangled.io/the-missing-immutable-js-manual/)
   - [How to deal with the f**king controlled inputs](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
   - [Webpack confusing parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.ef7thr20c)
