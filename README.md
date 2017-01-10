@@ -72,6 +72,7 @@
 - [modular CSS](https://medium.engineering/simple-style-sheets-c3b588867899#.cmmi61to0)
 - [CSS-reference](http://cssreference.io/)
 - [New friend Felxbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox complete](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.xvhiqtrhh)
 
 #### Cloud
 - [AWS](https://github.com/open-guides/og-aws)
@@ -97,7 +98,7 @@
 - [Test credit card numbers](https://developers.braintreepayments.com/reference/general/testing/ruby#credit-card-numbers)
 
 #### 2017
-- [for2017](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.akm9ll6b9)
+- [for 2017](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.akm9ll6b9)
 
 
 
