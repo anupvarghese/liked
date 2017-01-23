@@ -101,6 +101,6 @@
 - [for 2017](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.akm9ll6b9)
 
 #### Kafka
-- List kafka topics  `/opt/kafka_<version>/bin/kafka-topics --zookeeper zk01.example.com:2181 --list`
+- List kafka topics  `/opt/kafka_<version>/bin/kafka-topics.sh --zookeeper zk01.example.com:2181 --list`
 - Create new kafka topics  `/opt/kafka_<version>/bin/kafka-topics.sh --topic TOPIC_NAME --create --zookeeper zk01.example.com:2181 --partitions 1 --replication-factor 1`
 
