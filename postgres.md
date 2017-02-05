@@ -1,0 +1,2 @@
+- [Faster JSON with postgresql](https://hashrocket.com/blog/posts/faster-json-generation-with-postgresql)
+- [JSON filtering & aggregation in postgresql](http://stormatics.com/howto-use-json-functionality-in-postgresql/)
