@@ -1,0 +1,5 @@
+- [Refactoring CSS](https://speakerdeck.com/csswizardry/refactoring-css-without-losing-your-mind)
+- [modular CSS](https://medium.engineering/simple-style-sheets-c3b588867899#.cmmi61to0)
+- [CSS-reference](http://cssreference.io/)
+- [New friend Felxbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox complete](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.xvhiqtrhh)
