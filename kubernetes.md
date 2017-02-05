@@ -1,0 +1,3 @@
+- [Kubernetes kubectl installation](https://code.google.com/p/google-cloud-sdk/issues/detail?id=336#c8)
+- Show master credentials `gcloud alpha container clusters describe example-cluster`
+- [Deploy using kubernetes from DockerHub](http://blog.wercker.com/deploying-a-microservice-to-kubernetes)
