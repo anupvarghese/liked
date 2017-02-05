@@ -1,0 +1,3 @@
+- Remove all exited containers `❯❯❯ docker rm $(docker ps -a -q -f "status=exited")`
+- [Private NPM with docker](https://blog.risingstack.com/private-npm-with-docker/)
+- Connect to a docker container `❯❯❯ docker exec -it CONTAINER_ID bash`
