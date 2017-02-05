@@ -1,0 +1,1 @@
+- [For 2017](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.akm9ll6b9)
