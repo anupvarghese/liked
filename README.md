@@ -13,3 +13,4 @@
 - [Git](https://github.com/anupvarghese/liked/blob/master/git.md)
 - [Commands](https://github.com/anupvarghese/liked/blob/master/commands.md)
 - [Cloud](https://github.com/anupvarghese/liked/blob/master/ebooks.md)
+- [Algorithms](https://github.com/anupvarghese/liked/blob/master/algos.md)
