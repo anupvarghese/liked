@@ -1,6 +1,10 @@
 #### Javascript
 
 - ##### Docs
+  - [Dev roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  - [Awesome NodeJS](https://github.com/kamranahmedse/awesome-nodejs)
+  - [You dont know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [Composition over inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
   - [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
   - [javascriptallongesix](https://leanpub.com/javascriptallongesix/read)
   - [Yarn vs npm](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.zan26kdby)
