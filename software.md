@@ -1,0 +1,2 @@
+- [Sorts explained](https://illustrated-algorithms.now.sh/)
+- [Design patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
