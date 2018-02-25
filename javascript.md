@@ -15,10 +15,11 @@
   - [How to start with JavaScript](https://github.com/verekia/js-stack-from-scratch)
   - [for in vs for of](https://bitsofco.de/for-in-vs-for-of/?utm_source=codropscollective)
   - [How to yield Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
+  - [Learn rx](http://reactivex.io/learnrx/)
   - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
   - [2 pillars of JS Pt-1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
   - [2 pillars of JS Pt-2](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
-  - [Learn rx](http://reactivex.io/learnrx/)
+
 - ##### Videos
   - [Monads](https://www.youtube.com/watch?v=cB0vpg9-YMQ)
   - [Code for Humans](https://www.youtube.com/watch?v=loj3CLHovt0)
